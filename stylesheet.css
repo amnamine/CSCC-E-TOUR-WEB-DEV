@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightblue;
+  font: Comic;
+}
+.flex
+ {
+  background-color: white;
+  height: 700px;
+  width: 1400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1%;
+ }
+.sidebar
+{
+  position : relative
+}
+.sn {
+  position : absolute;
+  inset: 0;
+  text-decoration: none;
+  color:white;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  text-decoration: none;
+  margin-left:0px;
+  margin-right: 100px;
+  margin-top: 10 px;
+  margin-bottom : 200px;
+}
+
+p
+{
+  color : gray;
+}
+.grayc 
+{
+  color : rgb(204, 204, 204);
+}
+p
+{
+  text-align: center;
+  padding: 50px;
+}
+button 
+{
+  height: 50px;
+  border: none;
+  margin-top:auto;
+  background-color: rgb(31, 44, 71);
+  color :white;
+}
+
+input{
+  border-radius: 5px;
+}
+.inputs
+{
+
+}
+.pad
+{
+  padding:0px;
+  margin:auto;
+  
+}
